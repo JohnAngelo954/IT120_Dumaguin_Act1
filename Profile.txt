@@ -5,3 +5,10 @@ Gender: Male
 Age: 21
 Birthday: March 2, 2004
 Contacts: 09631721873
+
+Birth of Place: Brgy.Holy Spirit, Quezon City
+Religion: Catholic
+Father's Name: Roberto M. Dumaguin
+Occupation: Driver
+Mother's Name: Jenalyn M. Bautista
+Occupation: OFW
